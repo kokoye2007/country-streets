@@ -1,3 +1,5 @@
 *
 !.gitignore
-!singapore.poly
+*.poly
+*.pbf
+*.osm

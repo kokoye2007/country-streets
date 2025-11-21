@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  pipeline:
+    build: .
+    image: country-streets:latest
+    environment:
+      # Override at runtime or via .env: COUNTRY=asia/singapore
+      - COUNTRY=${COUNTRY:-asia/laos}
+    volumes:
+      - ./osm:/app/osm
+      - ./data:/app/data
+      - ./output:/app/output
+      - ./filtered:/app/filtered
+    command: ["make", "all"]

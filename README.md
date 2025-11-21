@@ -1,24 +1,63 @@
 # Singapore Streets
 
-## How many streets are there in Singapore?
+Find and clean street names from OpenStreetMap (OSM) data. The pipeline downloads a country extract, cuts to city bounds, extracts street names, and produces a cleaned, deduplicated list. Although the repo includes Singapore examples, you can run any Geofabrik country via `COUNTRY=...`.
 
-This project explores OpenStreetMap (OSM) data to find all streets in Singapore. It’s an end-to-end pipeline that downloads and processes OSM data to extract street names.
+## Quick Start (Native)
 
-## How to Run
+Requirements: Python 3.11, `osmconvert`, `osmosis`, `wget`.
 
 ```
-# Download the latest OSM data
-make osm
-# Extract Singapore OSM
-make city
-# Extract street names from OSM
-make streets
-# Clean street names
-make clean
-# Use ollama to group street names
-make categorize
+# Setup once
+make venv
+
+# Choose a country (default: asia/thailand). See countries.txt
+COUNTRY=asia/singapore make osm
+COUNTRY=asia/singapore make city
+COUNTRY=asia/singapore make streets
+COUNTRY=asia/singapore make clean
+
+# Optional: categorize with Ollama (requires local ollama)
+COUNTRY=asia/singapore make categorize
 ```
+
+## Quick Start (Docker)
+
+Build a small multi-stage image and run the full pipeline:
+
+```
+make docker-build
+COUNTRY=asia/singapore make docker-run
+```
+
+Interactive shell inside the image:
+
+```
+COUNTRY=asia/singapore make docker-shell
+```
+
+Compose alternative with bind mounts:
+
+```
+COUNTRY=asia/singapore docker compose up --build
+```
+
+Outputs are written to `output/`, with excluded lines in `filtered/` for review.
+
+## Make Targets
+
+- `make venv`: Create virtualenv and install Python deps.
+- `make osm`: Download Geofabrik PBF + POLY for `COUNTRY`.
+- `make city`: Convert to city `.osm` using `.poly`.
+- `make streets`: Extract street CSV + text list.
+- `make clean`: Format, filter, and dedupe into `output/`.
+- `make categorize` (optional): Group names with Ollama.
+- `make all`: Runs `osm city streets clean categorize`.
+
+## Notes
+
+- Valid `COUNTRY` values are listed in `countries.txt` (e.g., `asia/singapore`).
+- `categorize` uses `ollama` and is not installed in the Docker image by default.
 
 ## Open Issues
 
-- Few typos in OSM data, e.g., `Woodland Drive 75` instead of `Woodlands Drive 75`
+- Typos in OSM data (e.g., `Woodland Drive 75` vs `Woodlands Drive 75`).

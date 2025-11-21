@@ -1,0 +1,1247 @@
+{
+  "Africa": [
+    {
+      "name": "Algeria",
+      "url": "https://download.geofabrik.de/africa/algeria.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Angola",
+      "url": "https://download.geofabrik.de/africa/angola.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Benin",
+      "url": "https://download.geofabrik.de/africa/benin.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Botswana",
+      "url": "https://download.geofabrik.de/africa/botswana.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Burkina Faso",
+      "url": "https://download.geofabrik.de/africa/burkina-faso.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Burundi",
+      "url": "https://download.geofabrik.de/africa/burundi.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Cameroon",
+      "url": "https://download.geofabrik.de/africa/cameroon.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Canary Islands",
+      "url": "https://download.geofabrik.de/africa/canary-islands.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Cape Verde",
+      "url": "https://download.geofabrik.de/africa/cape-verde.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Central African Republic",
+      "url": "https://download.geofabrik.de/africa/central-african-republic.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Chad",
+      "url": "https://download.geofabrik.de/africa/chad.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Comores",
+      "url": "https://download.geofabrik.de/africa/comores.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Congo (Republic/Brazzaville)",
+      "url": "https://download.geofabrik.de/africa/congo-brazzaville.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Congo (Democratic Republic/Kinshasa)",
+      "url": "https://download.geofabrik.de/africa/congo-democratic-republic.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Djibouti",
+      "url": "https://download.geofabrik.de/africa/djibouti.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Egypt",
+      "url": "https://download.geofabrik.de/africa/egypt.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "url": "https://download.geofabrik.de/africa/equatorial-guinea.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Eritrea",
+      "url": "https://download.geofabrik.de/africa/eritrea.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Ethiopia",
+      "url": "https://download.geofabrik.de/africa/ethiopia.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Gabon",
+      "url": "https://download.geofabrik.de/africa/gabon.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Ghana",
+      "url": "https://download.geofabrik.de/africa/ghana.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Guinea",
+      "url": "https://download.geofabrik.de/africa/guinea.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "url": "https://download.geofabrik.de/africa/guinea-bissau.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Ivory Coast",
+      "url": "https://download.geofabrik.de/africa/ivory-coast.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Kenya",
+      "url": "https://download.geofabrik.de/africa/kenya.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Lesotho",
+      "url": "https://download.geofabrik.de/africa/lesotho.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Liberia",
+      "url": "https://download.geofabrik.de/africa/liberia.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Libya",
+      "url": "https://download.geofabrik.de/africa/libya.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Madagascar",
+      "url": "https://download.geofabrik.de/africa/madagascar.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Malawi",
+      "url": "https://download.geofabrik.de/africa/malawi.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Mali",
+      "url": "https://download.geofabrik.de/africa/mali.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Mauritania",
+      "url": "https://download.geofabrik.de/africa/mauritania.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Mauritius",
+      "url": "https://download.geofabrik.de/africa/mauritius.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Morocco",
+      "url": "https://download.geofabrik.de/africa/morocco.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Mozambique",
+      "url": "https://download.geofabrik.de/africa/mozambique.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Namibia",
+      "url": "https://download.geofabrik.de/africa/namibia.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Niger",
+      "url": "https://download.geofabrik.de/africa/niger.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Nigeria",
+      "url": "https://download.geofabrik.de/africa/nigeria.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Rwanda",
+      "url": "https://download.geofabrik.de/africa/rwanda.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Saint Helena, Ascension, and Tristan da Cunha",
+      "url": "https://download.geofabrik.de/africa/saint-helena-ascension-and-tristan-da-cunha.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "url": "https://download.geofabrik.de/africa/sao-tome-and-principe.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Senegal and Gambia",
+      "url": "https://download.geofabrik.de/africa/senegal-and-gambia.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Seychelles",
+      "url": "https://download.geofabrik.de/africa/seychelles.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Sierra Leone",
+      "url": "https://download.geofabrik.de/africa/sierra-leone.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Somalia",
+      "url": "https://download.geofabrik.de/africa/somalia.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "South Africa",
+      "url": "https://download.geofabrik.de/africa/south-africa.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "South Sudan",
+      "url": "https://download.geofabrik.de/africa/south-sudan.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Sudan",
+      "url": "https://download.geofabrik.de/africa/sudan.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Swaziland",
+      "url": "https://download.geofabrik.de/africa/swaziland.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Tanzania",
+      "url": "https://download.geofabrik.de/africa/tanzania.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Togo",
+      "url": "https://download.geofabrik.de/africa/togo.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Tunisia",
+      "url": "https://download.geofabrik.de/africa/tunisia.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Uganda",
+      "url": "https://download.geofabrik.de/africa/uganda.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Zambia",
+      "url": "https://download.geofabrik.de/africa/zambia.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Zimbabwe",
+      "url": "https://download.geofabrik.de/africa/zimbabwe.html",
+      "continent": "Africa",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "South Africa (includes Lesotho)",
+      "url": "https://download.geofabrik.de/africa/south-africa-and-lesotho.html",
+      "continent": "Africa",
+      "section": "Special Sub Regions"
+    }
+  ],
+  "Antarctica": [],
+  "Asia": [
+    {
+      "name": "Afghanistan",
+      "url": "https://download.geofabrik.de/asia/afghanistan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Armenia",
+      "url": "https://download.geofabrik.de/asia/armenia.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Azerbaijan",
+      "url": "https://download.geofabrik.de/asia/azerbaijan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Bangladesh",
+      "url": "https://download.geofabrik.de/asia/bangladesh.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Bhutan",
+      "url": "https://download.geofabrik.de/asia/bhutan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Cambodia",
+      "url": "https://download.geofabrik.de/asia/cambodia.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "China",
+      "url": "https://download.geofabrik.de/asia/china.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "East Timor",
+      "url": "https://download.geofabrik.de/asia/east-timor.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "GCC States",
+      "url": "https://download.geofabrik.de/asia/gcc-states.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "India",
+      "url": "https://download.geofabrik.de/asia/india.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Indonesia (with East Timor)",
+      "url": "https://download.geofabrik.de/asia/indonesia.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Iran",
+      "url": "https://download.geofabrik.de/asia/iran.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Iraq",
+      "url": "https://download.geofabrik.de/asia/iraq.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Israel and Palestine",
+      "url": "https://download.geofabrik.de/asia/israel-and-palestine.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Japan",
+      "url": "https://download.geofabrik.de/asia/japan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Jordan",
+      "url": "https://download.geofabrik.de/asia/jordan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Kazakhstan",
+      "url": "https://download.geofabrik.de/asia/kazakhstan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "url": "https://download.geofabrik.de/asia/kyrgyzstan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Laos",
+      "url": "https://download.geofabrik.de/asia/laos.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Lebanon",
+      "url": "https://download.geofabrik.de/asia/lebanon.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Malaysia, Singapore, and Brunei",
+      "url": "https://download.geofabrik.de/asia/malaysia-singapore-brunei.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Maldives",
+      "url": "https://download.geofabrik.de/asia/maldives.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Mongolia",
+      "url": "https://download.geofabrik.de/asia/mongolia.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Myanmar (a.k.a. Burma)",
+      "url": "https://download.geofabrik.de/asia/myanmar.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Nepal",
+      "url": "https://download.geofabrik.de/asia/nepal.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "North Korea",
+      "url": "https://download.geofabrik.de/asia/north-korea.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Pakistan",
+      "url": "https://download.geofabrik.de/asia/pakistan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Philippines",
+      "url": "https://download.geofabrik.de/asia/philippines.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Russian Federation",
+      "url": "https://download.geofabrik.de/russia.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "South Korea",
+      "url": "https://download.geofabrik.de/asia/south-korea.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Sri Lanka",
+      "url": "https://download.geofabrik.de/asia/sri-lanka.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Syria",
+      "url": "https://download.geofabrik.de/asia/syria.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Taiwan",
+      "url": "https://download.geofabrik.de/asia/taiwan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Tajikistan",
+      "url": "https://download.geofabrik.de/asia/tajikistan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Thailand",
+      "url": "https://download.geofabrik.de/asia/thailand.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Turkmenistan",
+      "url": "https://download.geofabrik.de/asia/turkmenistan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Uzbekistan",
+      "url": "https://download.geofabrik.de/asia/uzbekistan.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Vietnam",
+      "url": "https://download.geofabrik.de/asia/vietnam.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Yemen",
+      "url": "https://download.geofabrik.de/asia/yemen.html",
+      "continent": "Asia",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "South-East Asia",
+      "url": "https://download.geofabrik.de/asia/sea.html",
+      "continent": "Asia",
+      "section": "Special Sub Regions"
+    }
+  ],
+  "Australia and Oceania": [
+    {
+      "name": "American Oceania",
+      "url": "https://download.geofabrik.de/australia-oceania/american-oceania.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Australia",
+      "url": "https://download.geofabrik.de/australia-oceania/australia.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Cook Islands",
+      "url": "https://download.geofabrik.de/australia-oceania/cook-islands.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Fiji",
+      "url": "https://download.geofabrik.de/australia-oceania/fiji.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Ãle de Clipperton",
+      "url": "https://download.geofabrik.de/australia-oceania/ile-de-clipperton.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Kiribati",
+      "url": "https://download.geofabrik.de/australia-oceania/kiribati.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Marshall Islands",
+      "url": "https://download.geofabrik.de/australia-oceania/marshall-islands.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Micronesia",
+      "url": "https://download.geofabrik.de/australia-oceania/micronesia.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Nauru",
+      "url": "https://download.geofabrik.de/australia-oceania/nauru.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "New Caledonia",
+      "url": "https://download.geofabrik.de/australia-oceania/new-caledonia.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "New Zealand",
+      "url": "https://download.geofabrik.de/australia-oceania/new-zealand.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Niue",
+      "url": "https://download.geofabrik.de/australia-oceania/niue.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Palau",
+      "url": "https://download.geofabrik.de/australia-oceania/palau.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Papua New Guinea",
+      "url": "https://download.geofabrik.de/australia-oceania/papua-new-guinea.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Pitcairn Islands",
+      "url": "https://download.geofabrik.de/australia-oceania/pitcairn-islands.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "PolynÃ©sie franÃ§aise (French Polynesia)",
+      "url": "https://download.geofabrik.de/australia-oceania/polynesie-francaise.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Samoa",
+      "url": "https://download.geofabrik.de/australia-oceania/samoa.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Solomon Islands",
+      "url": "https://download.geofabrik.de/australia-oceania/solomon-islands.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Tokelau",
+      "url": "https://download.geofabrik.de/australia-oceania/tokelau.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Tonga",
+      "url": "https://download.geofabrik.de/australia-oceania/tonga.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Tuvalu",
+      "url": "https://download.geofabrik.de/australia-oceania/tuvalu.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Vanuatu",
+      "url": "https://download.geofabrik.de/australia-oceania/vanuatu.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Wallis et Futuna",
+      "url": "https://download.geofabrik.de/australia-oceania/wallis-et-futuna.html",
+      "continent": "Australia and Oceania",
+      "section": "Sub Regions"
+    }
+  ],
+  "Central America": [
+    {
+      "name": "Bahamas",
+      "url": "https://download.geofabrik.de/central-america/bahamas.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Belize",
+      "url": "https://download.geofabrik.de/central-america/belize.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Costa Rica",
+      "url": "https://download.geofabrik.de/central-america/costa-rica.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Cuba",
+      "url": "https://download.geofabrik.de/central-america/cuba.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "El Salvador",
+      "url": "https://download.geofabrik.de/central-america/el-salvador.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Guatemala",
+      "url": "https://download.geofabrik.de/central-america/guatemala.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Haiti and Dominican Republic",
+      "url": "https://download.geofabrik.de/central-america/haiti-and-domrep.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Honduras",
+      "url": "https://download.geofabrik.de/central-america/honduras.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Jamaica",
+      "url": "https://download.geofabrik.de/central-america/jamaica.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Nicaragua",
+      "url": "https://download.geofabrik.de/central-america/nicaragua.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Panama",
+      "url": "https://download.geofabrik.de/central-america/panama.html",
+      "continent": "Central America",
+      "section": "Sub Regions"
+    }
+  ],
+  "Europe": [
+    {
+      "name": "Albania",
+      "url": "https://download.geofabrik.de/europe/albania.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Andorra",
+      "url": "https://download.geofabrik.de/europe/andorra.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Austria",
+      "url": "https://download.geofabrik.de/europe/austria.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Azores",
+      "url": "https://download.geofabrik.de/europe/azores.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Belarus",
+      "url": "https://download.geofabrik.de/europe/belarus.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Belgium",
+      "url": "https://download.geofabrik.de/europe/belgium.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Bosnia-Herzegovina",
+      "url": "https://download.geofabrik.de/europe/bosnia-herzegovina.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Bulgaria",
+      "url": "https://download.geofabrik.de/europe/bulgaria.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Croatia",
+      "url": "https://download.geofabrik.de/europe/croatia.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Cyprus",
+      "url": "https://download.geofabrik.de/europe/cyprus.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Czech Republic",
+      "url": "https://download.geofabrik.de/europe/czech-republic.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Denmark",
+      "url": "https://download.geofabrik.de/europe/denmark.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Estonia",
+      "url": "https://download.geofabrik.de/europe/estonia.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Faroe Islands",
+      "url": "https://download.geofabrik.de/europe/faroe-islands.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Finland",
+      "url": "https://download.geofabrik.de/europe/finland.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "France",
+      "url": "https://download.geofabrik.de/europe/france.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Georgia",
+      "url": "https://download.geofabrik.de/europe/georgia.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Germany",
+      "url": "https://download.geofabrik.de/europe/germany.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Greece",
+      "url": "https://download.geofabrik.de/europe/greece.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Guernsey and Jersey",
+      "url": "https://download.geofabrik.de/europe/guernsey-jersey.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Hungary",
+      "url": "https://download.geofabrik.de/europe/hungary.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Iceland",
+      "url": "https://download.geofabrik.de/europe/iceland.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Ireland and Northern Ireland",
+      "url": "https://download.geofabrik.de/europe/ireland-and-northern-ireland.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Isle of Man",
+      "url": "https://download.geofabrik.de/europe/isle-of-man.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Italy",
+      "url": "https://download.geofabrik.de/europe/italy.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Kosovo",
+      "url": "https://download.geofabrik.de/europe/kosovo.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Latvia",
+      "url": "https://download.geofabrik.de/europe/latvia.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Liechtenstein",
+      "url": "https://download.geofabrik.de/europe/liechtenstein.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Lithuania",
+      "url": "https://download.geofabrik.de/europe/lithuania.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Luxembourg",
+      "url": "https://download.geofabrik.de/europe/luxembourg.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Macedonia",
+      "url": "https://download.geofabrik.de/europe/macedonia.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Malta",
+      "url": "https://download.geofabrik.de/europe/malta.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Moldova",
+      "url": "https://download.geofabrik.de/europe/moldova.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Monaco",
+      "url": "https://download.geofabrik.de/europe/monaco.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Montenegro",
+      "url": "https://download.geofabrik.de/europe/montenegro.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Netherlands",
+      "url": "https://download.geofabrik.de/europe/netherlands.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Norway",
+      "url": "https://download.geofabrik.de/europe/norway.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Poland",
+      "url": "https://download.geofabrik.de/europe/poland.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Portugal",
+      "url": "https://download.geofabrik.de/europe/portugal.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Romania",
+      "url": "https://download.geofabrik.de/europe/romania.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Russian Federation",
+      "url": "https://download.geofabrik.de/russia.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Serbia",
+      "url": "https://download.geofabrik.de/europe/serbia.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Slovakia",
+      "url": "https://download.geofabrik.de/europe/slovakia.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Slovenia",
+      "url": "https://download.geofabrik.de/europe/slovenia.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Spain",
+      "url": "https://download.geofabrik.de/europe/spain.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Sweden",
+      "url": "https://download.geofabrik.de/europe/sweden.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Switzerland",
+      "url": "https://download.geofabrik.de/europe/switzerland.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Turkey",
+      "url": "https://download.geofabrik.de/europe/turkey.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Ukraine (with Crimea)",
+      "url": "https://download.geofabrik.de/europe/ukraine.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "United Kingdom",
+      "url": "https://download.geofabrik.de/europe/united-kingdom.html",
+      "continent": "Europe",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Alps",
+      "url": "https://download.geofabrik.de/europe/alps.html",
+      "continent": "Europe",
+      "section": "Special Sub Regions"
+    },
+    {
+      "name": "Britain and Ireland",
+      "url": "https://download.geofabrik.de/europe/britain-and-ireland.html",
+      "continent": "Europe",
+      "section": "Special Sub Regions"
+    },
+    {
+      "name": "Germany, Austria, Switzerland",
+      "url": "https://download.geofabrik.de/europe/dach.html",
+      "continent": "Europe",
+      "section": "Special Sub Regions"
+    },
+    {
+      "name": "Great Britain",
+      "url": "https://download.geofabrik.de/europe/great-britain.html",
+      "continent": "Europe",
+      "section": "Special Sub Regions"
+    }
+  ],
+  "North America": [
+    {
+      "name": "Canada",
+      "url": "https://download.geofabrik.de/north-america/canada.html",
+      "continent": "North America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Greenland",
+      "url": "https://download.geofabrik.de/north-america/greenland.html",
+      "continent": "North America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Mexico",
+      "url": "https://download.geofabrik.de/north-america/mexico.html",
+      "continent": "North America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "United States of America",
+      "url": "https://download.geofabrik.de/north-america/us.html",
+      "continent": "North America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "US Midwest",
+      "url": "https://download.geofabrik.de/north-america/us-midwest.html",
+      "continent": "North America",
+      "section": "Special Sub Regions"
+    },
+    {
+      "name": "US Northeast",
+      "url": "https://download.geofabrik.de/north-america/us-northeast.html",
+      "continent": "North America",
+      "section": "Special Sub Regions"
+    },
+    {
+      "name": "US Pacific",
+      "url": "https://download.geofabrik.de/north-america/us-pacific.html",
+      "continent": "North America",
+      "section": "Special Sub Regions"
+    },
+    {
+      "name": "US South",
+      "url": "https://download.geofabrik.de/north-america/us-south.html",
+      "continent": "North America",
+      "section": "Special Sub Regions"
+    },
+    {
+      "name": "US West",
+      "url": "https://download.geofabrik.de/north-america/us-west.html",
+      "continent": "North America",
+      "section": "Special Sub Regions"
+    }
+  ],
+  "South America": [
+    {
+      "name": "Argentina",
+      "url": "https://download.geofabrik.de/south-america/argentina.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Bolivia",
+      "url": "https://download.geofabrik.de/south-america/bolivia.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Brazil",
+      "url": "https://download.geofabrik.de/south-america/brazil.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Chile",
+      "url": "https://download.geofabrik.de/south-america/chile.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Colombia",
+      "url": "https://download.geofabrik.de/south-america/colombia.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Ecuador",
+      "url": "https://download.geofabrik.de/south-america/ecuador.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Guyana",
+      "url": "https://download.geofabrik.de/south-america/guyana.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Paraguay",
+      "url": "https://download.geofabrik.de/south-america/paraguay.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Peru",
+      "url": "https://download.geofabrik.de/south-america/peru.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Suriname",
+      "url": "https://download.geofabrik.de/south-america/suriname.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Uruguay",
+      "url": "https://download.geofabrik.de/south-america/uruguay.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    },
+    {
+      "name": "Venezuela",
+      "url": "https://download.geofabrik.de/south-america/venezuela.html",
+      "continent": "South America",
+      "section": "Sub Regions"
+    }
+  ]
+}

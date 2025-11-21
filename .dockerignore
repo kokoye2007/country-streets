@@ -1,0 +1,24 @@
+# VCS and metadata
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Large artifacts / local outputs
+osm/
+output/
+filtered/
+data/*.csv
+data/*-streets.txt
+
+# OS/editor
+.DS_Store
+*.swp
+
